@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navi4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipes_fragment">Home</string>
+    <string name="favorit_recipes_fragment">favorit</string>
+    <string name="user_profile_fragment">Build</string>
+</resources>
